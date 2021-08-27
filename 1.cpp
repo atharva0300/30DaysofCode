@@ -15,7 +15,7 @@ int ex_8(int[] , int );
 int summation(int);
 int reversing(int);
 
-int main_1()
+int main()
 {
     /*string s ;
     string answer = "";
